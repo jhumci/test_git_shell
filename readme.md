@@ -29,4 +29,4 @@ This is a project, that provides an example of the usage of github and bash.
 - Try running the Python-Skript ```make_primes.py``` again
 - Check Your results in 
 Show the results in ```primes.txt``` using vi
-- commit the changes to Your branch using ```git commit -m <your_commit_comment>
+- 🤓 commit the changes to Your branch using ```git commit -m <your_commit_comment>```
