@@ -16,7 +16,7 @@ This is a project, that provides an example of the usage of github and bash.
 
 ## Tasks
 
-- create Your own branch using ```git branch <your_branch_name>```
+- 🤓 create Your own branch using ```git branch <your_branch_name>```
 - execute the file ```hello_world.py``` by entering ```python hello_world.py```. Make sure, that You are in the right directory or enter the relative file path 
 - Create the file ```primes.txt``` in the subfolder data
     - navigate to the data subfolder ```cd data```
