@@ -23,7 +23,7 @@ This is a project, that provides an example of the usage of github and bash.
     - navigate to the data subfolder ```cd data```
     - create a new file ```touch primes.txt```
 - Try running the Python-Skript ```make_primes.py```
-- Fix the problems within the Python code using the vi editor
+- Fix the problems within the Python code using the vi editor (🤓) or any other text editor on Your PC
     - You can open the editor using ```vi make_primes.py```
     - use the following [vi-commands](https://www.guru99.com/the-vi-editor.html) to edit the file
     - replace ```for n in range (x,y):``` by a reasonable range You want to find the prime number in
