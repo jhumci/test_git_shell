@@ -13,6 +13,7 @@ This is a project, that provides an example of the usage of github and bash.
     - in git bash, navigate to the folder You want to download the repository to
     - enter ```git clone https://github.com/jhumci/test_git_shell.git```
     - now, You have a copy of the repository on Your machine
+    - use the windows explorer to make sure that this worked
 
 ## Tasks
 
