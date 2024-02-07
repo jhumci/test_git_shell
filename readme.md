@@ -17,7 +17,9 @@ This is a project, that provides an example of the usage of github and bash.
 
 ## Tasks
 
-
+- Make sure to use a git bash and not a pwoer shell
+- Create a virtual environment using `python-m venv new_env`
+- activate the virtual environment using `source new_env/bin/activate` 
 - 🤓 create Your own branch using ```git branch <your_branch_name>```
 - execute the file ```hello_world.py``` by entering ```python hello_world.py```. Make sure, that You are in the right directory or enter the relative file path 
 - Create the file ```primes.txt``` in the subfolder data
