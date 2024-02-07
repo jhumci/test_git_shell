@@ -39,4 +39,5 @@ Show the results in ```primes.txt``` using nano
 - change the file to read only for all users
     - `chmod a-w primes.txt`
     - use `ls -l` to check whether it worked
+- Store your environment in a file `pip freeze > requirements.txt`
 - 🤓 commit the changes to Your branch using ```git commit -m <your_commit_comment>```
