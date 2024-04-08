@@ -17,7 +17,7 @@ This is a project, that provides an example of the usage of github and bash.
 
 ## Tasks
 
-- Make sure to use a git bash and not a pwoer shell
+- Make sure to use a git bash and not a power shell
 - Create a virtual environment using `python-m venv new_env`
 - activate the virtual environment using `source new_env/bin/activate` 
 - 🤓 create Your own branch using ```git branch <your_branch_name>```
