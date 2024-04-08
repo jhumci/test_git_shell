@@ -14,6 +14,7 @@ This is a project, that provides an example of the usage of github and bash.
     - enter ```git clone https://github.com/jhumci/test_git_shell.git```
     - now, You have a copy of the repository on Your machine
     - use the windows explorer to make sure that this worked
+    - alternatively use VS Code `File/Open new window` and select `Clone git repository`
 
 ## Tasks
 
